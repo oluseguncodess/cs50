@@ -10,4 +10,4 @@ Note --> `return 0` means a program is successful.
 ## Arrays
 These are special variables that can hold more than one value in a single variable, organised by index.
 
-To declare an array --> `type variable_name = [sizeofarray];
+To declare an array --> `type variable_name = [sizeofarray]`;
