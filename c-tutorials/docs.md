@@ -11,3 +11,6 @@ Note --> `return 0` means a program is successful.
 These are special variables that can hold more than one value in a single variable, organised by index.
 
 To declare an array --> `type variable_name = [sizeofarray]`;
+
+## Memory allocation
+You are to always consider freeing up memory to avoid memory leaks
