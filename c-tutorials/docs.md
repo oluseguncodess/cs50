@@ -13,4 +13,4 @@ These are special variables that can hold more than one value in a single variab
 To declare an array --> `type variable_name = [sizeofarray]`;
 
 ## Memory allocation
-You are to always consider freeing up memory to avoid memory leaks
+You are to always consider freeing up memory to avoid memory leaks. We use things like `free` which is a function in cs50 for freeing memory
