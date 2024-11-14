@@ -27,4 +27,3 @@ This contains essential resources that help me code along
 
 #### Others
 - You can't use `++` to increment in python like in Javascript or C
-- 
